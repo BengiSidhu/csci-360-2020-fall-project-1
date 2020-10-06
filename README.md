@@ -9,3 +9,6 @@ To use it:
 2.  make
 
 3.  run ./main
+
+# Current Functions
+1. Simple Assembly Translation: IF/IF-ELSE/FOR control instructions (support nested structure), arithmetic instructions (+,-), function calls (multiple arguments), return instructions, variable declaration (integer and integer array).
