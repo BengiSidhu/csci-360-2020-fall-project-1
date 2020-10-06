@@ -1,4 +1,4 @@
-# csci-360-2020-fall-project-1
+# CSCI-PROJECT-1
 
 Get codes: git clone https://github.com/xiaojie-gc/csci-360-2020-fall-project-1.git
 
